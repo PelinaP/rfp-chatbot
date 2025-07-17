@@ -1,0 +1,23 @@
+# Ignore Python virtual environments
+venv*/
+__pycache__/
+*.pyc
+
+# Ignore databases and text output
+*.db
+# Ignore text output files
+rfp_*.txt
+
+# Ignore VS Code, OS, and local files
+*.lnk
+.DS_Store
+
+# Ignore test and model folders
+test/
+test_model_folder/
+chat_with_pdf/
+
+# Ignore external or large folders you don't want to track
+my_rust_project/
+rfps/
+chroma_db/
