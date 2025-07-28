@@ -18,6 +18,9 @@ Export Q&A chat history to Word
 
 Simple and clean interface
 
+Challenges
+the frontend user interface is slow.
+
 Setup Instructions
 
 1. Clone the Repository
