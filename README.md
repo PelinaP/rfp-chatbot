@@ -2,7 +2,7 @@ RFP Chatbot
 
 This project is an interactive chatbot built with Streamlit, LangChain, and Ollama to help users analyze and query RFP (Request for Proposal) documents.
 
-Features
+Initial Key Features
 
 Upload and preview RFP PDF documents
 
