@@ -19,7 +19,7 @@ Export Q&A chat history to Word
 Simple and clean interface
 
 Challenges
-the frontend user interface is slow.
+latency with the frontend user interface is slow.
 
 Setup Instructions
 
