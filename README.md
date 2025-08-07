@@ -20,7 +20,11 @@ Simple and clean interface
 
 Challenges
 latency with the frontend user interface is slow.
-
+Azure Blob Storage: Store the chat history in a storage container.
+Working with One Document from Blob:
+When dealing with multiple documents (RFPs, in this case), Azure AI Foundry may not allow easy filtering or focusing on just one document at a time. 
+Ensure that each document from Blob Storage is indexed properly. This way, you can refine your queries using metadata_storage_name or other metadata properties as filters.
+Free API Keys: Upon signing up, OpenAI offers $18 worth of free tokens for new users. This should cover you for some initial queries.
 Setup Instructions
 
 1. Clone the Repository
